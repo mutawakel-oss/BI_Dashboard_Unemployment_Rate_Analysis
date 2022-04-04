@@ -16,4 +16,5 @@ High unemployment rate is generally correlated with a negative growth for some e
 12.	Spain
 13.	Hungary
 14.	Romania
+
 A subset of above mentioned 14 countries represents east Europe which includes: (Hungary, Poland, Romania) and the remaining European countries are from other sides of Europe. This is because he economy of east European countries is lower than the economy in other European countries such as western European countries which can help to study the impact of unemployment rates in different economies.
