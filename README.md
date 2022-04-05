@@ -21,10 +21,10 @@ A subset of above mentioned 14 countries represents east Europe which includes: 
 
 Following is a screenshot of created Tableau sheet where the values of correlation for each country across the 20 years has been added as a color filter to make it easy visually to spot countries with strong correlation. A good example for this is Hungary which has the strongest negative correlation (-0.64), and Norway which has the highest positive correlation (+0.29):  
 
-![test](https://github.com/mutawakel-oss/BI_Dashboard_Unemployment_Rate_Analysis/blob/main/Picture1.png)
+![Sample Graph](https://github.com/mutawakel-oss/BI_Dashboard_Unemployment_Rate_Analysis/blob/main/Picture1.png)
 
 Following is a screenshot of the created dashboard for this project:
-![test](https://github.com/mutawakel-oss/BI_Dashboard_Unemployment_Rate_Analysis/blob/main/Picture2.png)
+![Dashboard](https://github.com/mutawakel-oss/BI_Dashboard_Unemployment_Rate_Analysis/blob/main/Picture2.png)
 
 
 # 2-	Conclusions
