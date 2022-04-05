@@ -1,5 +1,5 @@
 # The impact of Unemployment Rate on 14 European Countries GDP Growth
-
+In this project I have worked as a BI Developer.
 # 1-	Introduction
 High unemployment rate is generally correlated with a negative growth for some economies` GDP (Andresen, 2015). Therefore, this project explores the impact of the unemployment rates of the following 14 European countries on the growth of their GDP between 2000-2019:
 1.	Poland
