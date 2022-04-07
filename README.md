@@ -19,7 +19,7 @@ High unemployment rate is generally correlated with a negative growth for some e
 
 A subset of above mentioned 14 countries represents east Europe which includes: (Hungary, Poland, Romania) and the remaining European countries are from other sides of Europe. This is because he economy of east European countries is lower than the economy in other European countries such as western European countries which can help to study the impact of unemployment rates in different economies.
 
-Following is a screenshot of created Tableau sheet where the values of correlation for each country across the 20 years has been added as a color filter to make it easy visually to spot countries with strong correlation. A good example for this is Hungary which has the strongest negative correlation (-0.64), and Norway which has the highest positive correlation (+0.29):  
+Following is a screenshot of created Tableau dashboard where the values of correlation for each country across the 20 years has been added as a color filter to make it easy visually to spot countries with strong correlation. A good example for this is Hungary which has the strongest negative correlation (-0.64), and Norway which has the highest positive correlation (+0.29):  
 
 ![Sample Graph](https://github.com/mutawakel-oss/BI_Dashboard_Unemployment_Rate_Analysis/blob/main/Picture1.png)
 
